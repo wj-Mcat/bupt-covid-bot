@@ -31,8 +31,8 @@
 ## Creators
 
 - [@wj-Mcat](https://github.com/wj-Mcat) - Jingjing WU (吴京京)
-- [Gmail](wjmcater@gmail.com)
-- 微信号:pure-_--love
+- Gmail: `wjmcater@gmail.com`
+- 微信号: `pure-_--love`
 
 ## Copyright & License
 
